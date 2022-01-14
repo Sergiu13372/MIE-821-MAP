@@ -1,0 +1,3 @@
+1;A A;Address A;072222;Asus13/10/2020;Broken display
+2;B B;Address B;072222;Acer10/10/2020;Faulty keyboard
+3;C D;Address X;072222;Acer10/10/2020;Faulty brain

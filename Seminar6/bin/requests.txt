@@ -1,0 +1,4 @@
+3;A A;Address A;072222;null;13/10/2020;Broken display
+4;A A;Address A;072222;null;13/10/2020;Broken display
+100;A A;Address A;072222;null;13/10/2020;Broken display
+200;B B;Address B;072222;null;10/10/2020;Faulty keyboard

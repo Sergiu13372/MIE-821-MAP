@@ -1,0 +1,10 @@
+--module-path
+"C:\\Program Files\\javafx-sdk-17.0.1\\lib"
+--add-modules
+javafx.controls,javafx.fxml
+-Dfile.encoding=Cp1252
+-p
+"D:\\Eclipse Stuff\\Seminar4\\bin;C:\\Program Files\\javafx-sdk-17.0.1\\lib\\javafx.base.jar;C:\\Program Files\\javafx-sdk-17.0.1\\lib\\javafx.controls.jar;C:\\Program Files\\javafx-sdk-17.0.1\\lib\\javafx.fxml.jar;C:\\Program Files\\javafx-sdk-17.0.1\\lib\\javafx.graphics.jar;C:\\Program Files\\javafx-sdk-17.0.1\\lib\\javafx.media.jar;C:\\Program Files\\javafx-sdk-17.0.1\\lib\\javafx.swing.jar;C:\\Program Files\\javafx-sdk-17.0.1\\lib\\javafx.web.jar;C:\\Program Files\\javafx-sdk-17.0.1\\lib\\javafx-swt.jar;C:\\Users\\Sergiu\\.p2\\pool\\plugins\\org.eclipse.fx.ide.css.jfx8_3.7.0.202010120832.jar"
+-XX:+ShowCodeDetailsInExceptionMessages
+-m
+Seminar4/application.Main
